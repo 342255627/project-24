@@ -1,2 +1,2 @@
-# project-24
-whjr pjct
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
